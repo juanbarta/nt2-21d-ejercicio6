@@ -1,6 +1,6 @@
 # NT2 – Trabajo Práctico 6 - Axios post con formulario y router
 
-##Realizar un desarrollo web front-end empleando Vue CLI 2 que contenga las siguientes vistas
+## Realizar un desarrollo web front-end empleando Vue CLI 2 que contenga las siguientes vistas
 manejadas por un router:
 
 ```
